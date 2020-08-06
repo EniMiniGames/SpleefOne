@@ -1,0 +1,2 @@
+cd /home/main/Test-Spigot/plugins/
+mput ./build/libs/*.*.jar

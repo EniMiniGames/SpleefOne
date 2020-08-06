@@ -1,0 +1,14 @@
+name: spleefone
+version: 0.0.1
+author: Kyu
+main: me.preciouso.spleefone.Main
+api-version: 1.15
+
+website: https://github.com/Kyu
+commands:
+  spleef:
+    description: Start spleef game
+    usage: start
+  nospleef:
+    description: Stop spleef game
+    usage: stop

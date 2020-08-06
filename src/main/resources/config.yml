@@ -1,0 +1,22 @@
+queue-location:
+  x: 0
+  y: 100
+  z: 0
+
+game-location:
+  x: 0
+  y: 70
+  z: 0
+
+
+void-level: 40
+
+queue-minimum: 1
+queue-maximum: 10
+start-delay: 30
+
+game-length-seconds: 95
+
+shutdown-on-gameover-seconds: -1
+
+remove-block-after-ms: 300
